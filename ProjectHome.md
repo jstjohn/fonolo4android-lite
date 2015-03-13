@@ -1,0 +1,1 @@
+The free version of fonolo4android. We are basically doing a feature freeze at version 138 and releasing it for free on the Android marketplace.
